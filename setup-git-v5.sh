@@ -36,7 +36,7 @@ sudo git config --system core.editor nano
 #git config --global credential.helper 'cache --timeout=32000'
 git config --global push.default simple
 
-git remote set-url origin https://github.com/qpcheese/alis-arcopwn.git/$project
+git remote set-url origin https://github.com/qpcheese/$project
 
 echo "Everything set"
 
